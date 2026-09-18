@@ -1,2 +1,2 @@
-# daily
-Money management 
+KEUANGAN Bot
+Only Money Management
