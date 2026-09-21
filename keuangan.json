@@ -1,11 +1,17 @@
 {
-  "saldo": 2079605.0,
+  "saldo": 1079605.0,
   "transaksi": [
     {
       "type": "masuk",
       "jumlah": 2079605.0,
       "ket": "tidak ada keterangan",
       "waktu": "21/09/2026 17:24"
+    },
+    {
+      "type": "keluar",
+      "jumlah": 1000000.0,
+      "ket": "buat kebutuhan",
+      "waktu": "21/09/2026 19:13"
     }
   ]
 }
