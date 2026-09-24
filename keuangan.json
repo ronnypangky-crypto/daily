@@ -1,5 +1,5 @@
 {
-  "saldo": 1206595.0,
+  "saldo": 1122595.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -17,6 +17,12 @@
       "type": "masuk",
       "jumlah": 126990.0,
       "ket": "tidak ada keterangan",
+      "waktu": "24/09/2026 15:45"
+    },
+    {
+      "type": "keluar",
+      "jumlah": 84000.0,
+      "ket": "bayar UCU 808 hengki 3 botol",
       "waktu": "24/09/2026 15:45"
     }
   ]
