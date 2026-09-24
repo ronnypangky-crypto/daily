@@ -1,5 +1,5 @@
 {
-  "saldo": 1122595.0,
+  "saldo": 1095595.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -24,6 +24,12 @@
       "jumlah": 84000.0,
       "ket": "bayar UCU 808 hengki 3 botol",
       "waktu": "24/09/2026 15:45"
+    },
+    {
+      "type": "keluar",
+      "jumlah": 27000.0,
+      "ket": "beli pulsa axis sky",
+      "waktu": "24/09/2026 15:46"
     }
   ]
 }
