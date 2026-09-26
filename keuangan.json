@@ -1,5 +1,5 @@
 {
-  "saldo": 1095595.0,
+  "saldo": 595595.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -30,6 +30,12 @@
       "jumlah": 27000.0,
       "ket": "beli pulsa axis sky",
       "waktu": "24/09/2026 15:46"
+    },
+    {
+      "type": "keluar",
+      "jumlah": 500000.0,
+      "ket": "buat kebutuhan",
+      "waktu": "26/09/2026 10:22"
     }
   ]
 }
