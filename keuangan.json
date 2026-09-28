@@ -1,5 +1,5 @@
 {
-  "saldo": 668717.0,
+  "saldo": 174717.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -54,6 +54,12 @@
       "jumlah": 36826.0,
       "ket": "tidak ada keterangan",
       "waktu": "28/09/2026 11:05"
+    },
+    {
+      "type": "keluar",
+      "jumlah": 494000.0,
+      "ket": "bayar gadai",
+      "waktu": "28/09/2026 11:25"
     }
   ]
 }
