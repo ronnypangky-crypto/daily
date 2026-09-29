@@ -1,5 +1,5 @@
 {
-  "saldo": 4518521.0,
+  "saldo": 4474121.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -102,6 +102,12 @@
       "jumlah": 200000.0,
       "ket": "bayar utang ke rinto sisa 6.3",
       "waktu": "29/09/2026 11:05"
+    },
+    {
+      "type": "keluar",
+      "jumlah": 44400.0,
+      "ket": "bayar indosat 08161113189",
+      "waktu": "29/09/2026 12:53"
     }
   ]
 }
