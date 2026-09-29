@@ -1,5 +1,5 @@
 {
-  "saldo": 8262301.0,
+  "saldo": 7980421.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -72,6 +72,12 @@
       "jumlah": 562416.0,
       "ket": "bayar shopeepay",
       "waktu": "29/09/2026 09:18"
+    },
+    {
+      "type": "keluar",
+      "jumlah": 281880.0,
+      "ket": "bayar gopay",
+      "waktu": "29/09/2026 09:19"
     }
   ]
 }
