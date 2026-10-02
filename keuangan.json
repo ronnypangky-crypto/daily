@@ -1,5 +1,5 @@
 {
-  "saldo": 347670.0,
+  "saldo": 1137820.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -168,6 +168,12 @@
       "jumlah": 30000.0,
       "ket": "bayar kekurangan nota yg tgl 10/09",
       "waktu": "02/10/2026 09:12"
+    },
+    {
+      "type": "masuk",
+      "jumlah": 790150.0,
+      "ket": "uang nota dari shopee",
+      "waktu": "02/10/2026 09:33"
     }
   ]
 }
