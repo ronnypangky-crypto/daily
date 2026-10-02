@@ -1,5 +1,5 @@
 {
-  "saldo": 1347670.0,
+  "saldo": 397670.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -149,6 +149,12 @@
       "type": "keluar",
       "jumlah": 283050.0,
       "ket": "bayar balifiber",
+      "waktu": "02/10/2026 09:09"
+    },
+    {
+      "type": "keluar",
+      "jumlah": 950000.0,
+      "ket": "bayar SPP koko CM",
       "waktu": "02/10/2026 09:09"
     }
   ]
