@@ -1,5 +1,5 @@
 {
-  "saldo": 377670.0,
+  "saldo": 347670.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -162,6 +162,12 @@
       "jumlah": 20000.0,
       "ket": "bayar admin BCA",
       "waktu": "02/10/2026 09:10"
+    },
+    {
+      "type": "keluar",
+      "jumlah": 30000.0,
+      "ket": "bayar kekurangan nota yg tgl 10/09",
+      "waktu": "02/10/2026 09:12"
     }
   ]
 }
