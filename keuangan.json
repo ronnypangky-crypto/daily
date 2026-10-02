@@ -1,5 +1,5 @@
 {
-  "saldo": 397670.0,
+  "saldo": 377670.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -156,6 +156,12 @@
       "jumlah": 950000.0,
       "ket": "bayar SPP koko CM",
       "waktu": "02/10/2026 09:09"
+    },
+    {
+      "type": "keluar",
+      "jumlah": 20000.0,
+      "ket": "bayar admin BCA",
+      "waktu": "02/10/2026 09:10"
     }
   ]
 }
