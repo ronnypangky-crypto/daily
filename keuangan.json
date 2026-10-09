@@ -1,5 +1,5 @@
 {
-  "saldo": 531284.0,
+  "saldo": 463511.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -222,12 +222,6 @@
       "jumlah": 60691.0,
       "ket": "uang nota dari thaddeus",
       "waktu": "03/10/2026 14:48"
-    },
-    {
-      "type": "masuk",
-      "jumlah": 67773.0,
-      "ket": "uang nota tokopedia",
-      "waktu": "03/10/2026 14:50"
     }
   ]
 }
