@@ -1,5 +1,5 @@
 {
-  "saldo": 2895720.0,
+  "saldo": 3495720.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -120,12 +120,6 @@
       "jumlah": 95180.0,
       "ket": "shopee beli panty,filter,lakban fragile",
       "waktu": "29/09/2026 14:37"
-    },
-    {
-      "type": "keluar",
-      "jumlah": 600000.0,
-      "ket": "bayar spp mei2",
-      "waktu": "30/09/2026 13:45"
     }
   ]
 }
