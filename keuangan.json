@@ -1,5 +1,5 @@
 {
-  "saldo": 259079.0,
+  "saldo": 417115.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -251,6 +251,12 @@
       "type": "masuk",
       "jumlah": 236795.0,
       "ket": "uang dari marketplaca",
+      "waktu": "09/10/2026 13:12"
+    },
+    {
+      "type": "masuk",
+      "jumlah": 158036.0,
+      "ket": "uang dari tokopedia",
       "waktu": "09/10/2026 13:12"
     }
   ]
