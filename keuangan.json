@@ -1,5 +1,5 @@
 {
-  "saldo": 361820.0,
+  "saldo": 861820.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -198,12 +198,6 @@
       "jumlah": 69000.0,
       "ket": "uang nota dari mampirdonk",
       "waktu": "03/10/2026 09:49"
-    },
-    {
-      "type": "keluar",
-      "jumlah": 500000.0,
-      "ket": "kebutuhan",
-      "waktu": "03/10/2026 13:01"
     }
   ]
 }
