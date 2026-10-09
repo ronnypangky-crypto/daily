@@ -1,5 +1,5 @@
 {
-  "saldo": 892820.0,
+  "saldo": 995320.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -180,12 +180,6 @@
       "jumlah": 142500.0,
       "ket": "bayar bpjs 140 rb + 2.500 admin",
       "waktu": "02/10/2026 09:39"
-    },
-    {
-      "type": "keluar",
-      "jumlah": 102500.0,
-      "ket": "bayar bpjs papa + admin",
-      "waktu": "02/10/2026 09:40"
     }
   ]
 }
