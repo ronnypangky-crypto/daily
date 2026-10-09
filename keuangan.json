@@ -1,5 +1,5 @@
 {
-  "saldo": 3495720.0,
+  "saldo": 3590900.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -114,12 +114,6 @@
       "jumlah": 883221.0,
       "ket": "bayar nota tgl 10/09 s/d 26/09",
       "waktu": "29/09/2026 14:08"
-    },
-    {
-      "type": "keluar",
-      "jumlah": 95180.0,
-      "ket": "shopee beli panty,filter,lakban fragile",
-      "waktu": "29/09/2026 14:37"
     }
   ]
 }
