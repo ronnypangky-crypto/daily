@@ -1,5 +1,5 @@
 {
-  "saldo": 2245720.0,
+  "saldo": 2895720.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -126,12 +126,6 @@
       "jumlah": 600000.0,
       "ket": "bayar spp mei2",
       "waktu": "30/09/2026 13:45"
-    },
-    {
-      "type": "keluar",
-      "jumlah": 650000.0,
-      "ket": "bayar les sempoa mei2",
-      "waktu": "30/09/2026 13:58"
     }
   ]
 }
