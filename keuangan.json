@@ -1,5 +1,5 @@
 {
-  "saldo": 4518521.0,
+  "saldo": 4718521.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -96,12 +96,6 @@
       "jumlah": 100000.0,
       "ket": "sebelum gajian buat kebutuhan",
       "waktu": "29/09/2026 09:38"
-    },
-    {
-      "type": "keluar",
-      "jumlah": 200000.0,
-      "ket": "bayar utang ke rinto sisa 6.3",
-      "waktu": "29/09/2026 11:05"
     }
   ]
 }
