@@ -1,5 +1,5 @@
 {
-  "saldo": 259079.0,
+  "saldo": 22284.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -246,12 +246,6 @@
       "jumlah": 950000.0,
       "ket": "ATM buat kebutuhan",
       "waktu": "09/10/2026 13:11"
-    },
-    {
-      "type": "masuk",
-      "jumlah": 236795.0,
-      "ket": "uang dari marketplaca",
-      "waktu": "09/10/2026 13:12"
     }
   ]
 }
