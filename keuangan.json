@@ -1,5 +1,5 @@
 {
-  "saldo": 995320.0,
+  "saldo": 1137820.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -174,12 +174,6 @@
       "jumlah": 790150.0,
       "ket": "uang nota dari shopee",
       "waktu": "02/10/2026 09:33"
-    },
-    {
-      "type": "keluar",
-      "jumlah": 142500.0,
-      "ket": "bayar bpjs 140 rb + 2.500 admin",
-      "waktu": "02/10/2026 09:39"
     }
   ]
 }
