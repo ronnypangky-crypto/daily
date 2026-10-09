@@ -1,5 +1,5 @@
 {
-  "saldo": 972284.0,
+  "saldo": 72284.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -234,12 +234,6 @@
       "jumlah": 459000.0,
       "ket": "bayar nota keluar tgl 03/10",
       "waktu": "09/10/2026 13:10"
-    },
-    {
-      "type": "masuk",
-      "jumlah": 900000.0,
-      "ket": "seabank pinjam",
-      "waktu": "09/10/2026 13:11"
     }
   ]
 }
