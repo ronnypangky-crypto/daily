@@ -1,5 +1,5 @@
 {
-  "saldo": 9735230.0,
+  "saldo": 9041230.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -30,6 +30,12 @@
       "jumlah": 77700.0,
       "ket": "bayar indosat 0857",
       "waktu": "27/11/2026 13:28"
+    },
+    {
+      "type": "keluar",
+      "jumlah": 694000.0,
+      "ket": "bayar nota SP",
+      "waktu": "27/11/2026 13:52"
     }
   ]
 }
