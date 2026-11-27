@@ -1,5 +1,5 @@
 {
-  "saldo": 9861256.0,
+  "saldo": 9812930.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -17,6 +17,12 @@
       "type": "keluar",
       "jumlah": 550501.0,
       "ket": "bayar shopee pay",
+      "waktu": "27/11/2026 13:27"
+    },
+    {
+      "type": "keluar",
+      "jumlah": 48326.0,
+      "ket": "bayar indosat 0816",
       "waktu": "27/11/2026 13:27"
     }
   ]
