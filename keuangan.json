@@ -1,5 +1,5 @@
 {
-  "saldo": 9861256.0,
+  "saldo": 10411757.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -12,12 +12,6 @@
       "jumlah": 243221.0,
       "ket": "bayar gopay",
       "waktu": "27/11/2026 13:24"
-    },
-    {
-      "type": "keluar",
-      "jumlah": 550501.0,
-      "ket": "tidak ada keterangan",
-      "waktu": "27/11/2026 13:25"
     }
   ]
 }
