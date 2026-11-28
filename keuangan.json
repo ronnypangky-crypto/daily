@@ -1,5 +1,5 @@
 {
-  "saldo": 7191230.0,
+  "saldo": 7141530.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -60,6 +60,12 @@
       "jumlah": 200000.0,
       "ket": "bayar rinto",
       "waktu": "28/11/2026 11:23"
+    },
+    {
+      "type": "keluar",
+      "jumlah": 49700.0,
+      "ket": "beli filter air 6 pcs",
+      "waktu": "28/11/2026 14:38"
     }
   ]
 }
