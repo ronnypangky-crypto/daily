@@ -1,5 +1,5 @@
 {
-  "saldo": 7391230.0,
+  "saldo": 7191230.0,
   "transaksi": [
     {
       "type": "masuk",
@@ -54,6 +54,12 @@
       "jumlah": 1000000.0,
       "ket": "bayar utang ke toni",
       "waktu": "28/11/2026 11:19"
+    },
+    {
+      "type": "keluar",
+      "jumlah": 200000.0,
+      "ket": "bayar rinto",
+      "waktu": "28/11/2026 11:23"
     }
   ]
 }
